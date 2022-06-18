@@ -11,4 +11,4 @@
 
 ---
 
-⏳           **[Curricum Vitae](./CV.pdf)** (PDF)
+⏳           **[Curriculum Vitae](./CV.pdf)** (PDF)
