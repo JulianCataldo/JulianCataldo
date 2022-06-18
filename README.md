@@ -15,4 +15,4 @@
 
 ---
 
-[Curricum Vitae](./CV.pdf) (PDF)
+⏳           **[Curricum Vitae](./CV.pdf)** (PDF)
