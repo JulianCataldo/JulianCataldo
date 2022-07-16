@@ -1,7 +1,12 @@
 ![](https://www.juliancataldo.com/projet/entropicity/main_gallery/Entropicity-TheMan-JulianCataldo-CNek--w1024px.jpg)
 
-###         [🔗  Portfolio: JulianCataldo.com](https://www.juliancataldo.com/)                **[⏳  Curriculum Vitae](./CV.pdf)** (PDF)                [🌱  Web Garden](https://code.juliancataldo.com)
+---
 
+###        [🔗  Portfolio: JulianCataldo.com](https://www.juliancataldo.com/)               **[⏳  Curriculum Vitae](./CV.pdf)** (PDF)               [🌱  Web Garden](https://code.juliancataldo.com)
+
+
+
+<!--
 ---
 
 ```
@@ -10,6 +15,7 @@
   \   |  |   |  |  |  (   |  |   |     |      (   |  |    (   |  |  (   |  (   |
  \___/  \__,_| _| _| \__,_| _|  _|    \____| \__,_| \__| \__,_| _| \__,_| \___/
 ```
+-->
 
 ---
  
