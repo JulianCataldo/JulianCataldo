@@ -2,7 +2,7 @@
 
 ---
 
-####  [🔗  Portfolio: JulianCataldo.com](https://www.juliancataldo.com/)       |       **[⏳  Curriculum Vitae](./CV.pdf)** (PDF)       |       [🌱  Web Garden: code.juliancataldo.com](https://code.juliancataldo.com)
+####  [📓   Portfolio: JulianCataldo.com](https://www.juliancataldo.com/)        |        **[⏳   Curriculum Vitae](./CV.pdf)** (PDF)        |        [🌱   Web Garden: code.juliancataldo.com](https://code.juliancataldo.com)
 
 
 
