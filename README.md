@@ -28,3 +28,5 @@
   </a>
 </div>
 -->
+
+<a rel="me" href="https://indieweb.social/@julian_cataldo"></a>
