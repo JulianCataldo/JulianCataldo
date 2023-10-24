@@ -38,7 +38,6 @@
 - [Astro Content](https://github.com/JulianCataldo/astro-content)
 - [Astro OpenAPI](https://github.com/JulianCataldo/astro-openapi)
 - [Astro Sidecar](https://github.com/JulianCataldo/astro-sidecar)
-- [Astro Template Extensions](https://github.com/JulianCataldo/astro-template-extensions)
 - [Astro Zod to JSON schema](https://github.com/JulianCataldo/astro-zod-to-json-schema)
 - [JSON Schema Form Element](https://github.com/json-schema-form-element/jsfe)
 - [Web Garden](https://github.com/JulianCataldo/web-garden)
@@ -49,7 +48,7 @@
 
 <!-- keep-sorted start -->
 
-- [paper-cms](https://github.com/JulianCataldo/paper-cms)
+- [Paper CMS](https://github.com/JulianCataldo/paper-cms)
 
 <!-- keep-sorted end -->
 
@@ -79,8 +78,8 @@
 
 <!-- keep-sorted start -->
 
+- [Arduino Kickstarters](https://github.com/JulianCataldo/arduino-kickstarters)
 - [Gigabyte-Z390-UD-Ventura-OpenCore](https://github.com/JulianCataldo/Gigabyte-Z390-UD-Ventura-OpenCore)
-- [arduino-kickstarters](https://github.com/JulianCataldo/arduino-kickstarters)
 
 <!-- keep-sorted end -->
 
@@ -88,6 +87,7 @@
 
 <!-- keep-sorted start -->
 
-- [astro-nannou-starter](https://github.com/JulianCataldo/astro-nannou-starter)
+- [Astro + Nannou starter](https://github.com/JulianCataldo/astro-nannou-starter)
+- [Astro Template Extensions](https://github.com/JulianCataldo/astro-template-extensions)
 
 <!-- keep-sorted end -->
