@@ -31,7 +31,7 @@
 
 <a rel="me" href="https://indieweb.social/@julian_cataldo"></a>
 
-#### 🌍 Web libraries
+#### 🌍  Web libraries
 
 <!-- keep-sorted start -->
 
