@@ -31,7 +31,33 @@
 
 <a rel="me" href="https://indieweb.social/@julian_cataldo"></a>
 
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<th>
+
 #### 🌍  Web libraries
+
+</th>
+
+<th>
+
+#### 🚀  Web applications
+
+</th>
+
+<th>
+
+#### 🛫  DevOps
+
+</th>
+</tr>
+
+<tr>
+
+<td rowspan="3">
 
 <!-- keep-sorted start -->
 
@@ -44,7 +70,9 @@
 
 <!-- keep-sorted end -->
 
-#### 🚀  Web applications
+</td>
+
+<td>
 
 <!-- keep-sorted start -->
 
@@ -52,7 +80,34 @@
 
 <!-- keep-sorted end -->
 
+</td>
+
+<td>
+
+- [My GitHub Actions](https://github.com/JulianCataldo/gh-actions)
+
+</td>
+
+</tr>
+
+<tr>
+
+<th>
+
 #### 📜  Web templates
+
+</th>
+
+<th>
+
+#### 📝  Markdown & Co.
+
+</th> 
+</tr>
+
+<tr>
+
+<td>
 
 <!-- keep-sorted start -->
 
@@ -60,7 +115,9 @@
 
 <!-- keep-sorted end -->
 
-#### 📝  Markdown
+</td>
+
+<td>
 
 <!-- keep-sorted start -->
 
@@ -70,11 +127,25 @@
 
 <!-- keep-sorted end -->
 
-#### 🛫  DevOps
+</td>
 
-- [My GitHub Actions](https://github.com/JulianCataldo/gh-actions)
+</tr>
+
+<th>
 
 #### 🔩  Hardware
+
+</th>
+
+<th>
+
+#### 🧨  Lab
+
+</th>
+
+</tr>
+
+<td>
 
 <!-- keep-sorted start -->
 
@@ -83,7 +154,9 @@
 
 <!-- keep-sorted end -->
 
-#### 🧨  Lab
+</td>
+
+<td>
 
 <!-- keep-sorted start -->
 
@@ -91,3 +164,13 @@
 - [Astro Template Extensions](https://github.com/JulianCataldo/astro-template-extensions)
 
 <!-- keep-sorted end -->
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
