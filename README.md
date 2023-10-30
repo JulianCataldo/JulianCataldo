@@ -95,7 +95,7 @@
 
 <!-- keep-sorted start -->
 
-- [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) (official)
+- [Flowbite Astro Admin Dashboard](https://github.com/themesberg/flowbite-astro-admin-dashboard) (official)
 
 <!-- keep-sorted end -->
 
