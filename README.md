@@ -48,11 +48,6 @@
 
 </th>
 
-<th>
-
-#### 🛫  DevOps
-
-</th>
 </tr>
 
 <tr>
@@ -82,12 +77,6 @@
 
 </td>
 
-<td>
-
-- [My GitHub Actions](https://github.com/JulianCataldo/gh-actions)
-
-</td>
-
 </tr>
 
 <tr>
@@ -98,11 +87,6 @@
 
 </th>
 
-<th>
-
-#### 📝  Markdown & Co.
-
-</th> 
 </tr>
 
 <tr>
@@ -112,6 +96,33 @@
 <!-- keep-sorted start -->
 
 - [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) (official)
+
+<!-- keep-sorted end -->
+
+</td>
+
+</tr>
+
+<th>
+
+#### 🔩  Hardware
+
+</th>
+
+<th>
+
+#### 📝  Markdown & Co.
+
+</th>
+
+</tr>
+
+<td>
+
+<!-- keep-sorted start -->
+
+- [Arduino Kickstarters](https://github.com/JulianCataldo/arduino-kickstarters)
+- [Gigabyte-Z390-UD-Ventura-OpenCore](https://github.com/JulianCataldo/Gigabyte-Z390-UD-Ventura-OpenCore)
 
 <!-- keep-sorted end -->
 
@@ -131,9 +142,11 @@
 
 </tr>
 
+<tr>
+
 <th>
 
-#### 🔩  Hardware
+#### 🛫  DevOps
 
 </th>
 
@@ -145,14 +158,11 @@
 
 </tr>
 
+<tr>
+
 <td>
 
-<!-- keep-sorted start -->
-
-- [Arduino Kickstarters](https://github.com/JulianCataldo/arduino-kickstarters)
-- [Gigabyte-Z390-UD-Ventura-OpenCore](https://github.com/JulianCataldo/Gigabyte-Z390-UD-Ventura-OpenCore)
-
-<!-- keep-sorted end -->
+- [My GitHub Actions](https://github.com/JulianCataldo/gh-actions)
 
 </td>
 
