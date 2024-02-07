@@ -62,6 +62,7 @@
 - [Astro Zod to JSON schema](https://github.com/JulianCataldo/astro-zod-to-json-schema)
 - [JSON Schema Form Element](https://github.com/json-schema-form-element/jsfe)
 - [Web Garden](https://github.com/JulianCataldo/web-garden)
+- [vite-plugin-standard-css-modules](https://github.com/JulianCataldo/vite-plugin-standard-css-modules)
 
 <!-- keep-sorted end -->
 
