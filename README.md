@@ -63,6 +63,7 @@
 - [JSON Schema Form Element](https://github.com/json-schema-form-element/jsfe)
 - [Web Garden](https://github.com/JulianCataldo/web-garden)
 - [vite-plugin-standard-css-modules](https://github.com/JulianCataldo/vite-plugin-standard-css-modules)
+- [Open Graph images generator](https://github.com/JulianCataldo/og-images-generator)
 
 <!-- keep-sorted end -->
 
