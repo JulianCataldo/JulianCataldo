@@ -52,7 +52,7 @@
 
 <tr>
 
-<td rowspan="3">
+<td rowspan="5">
 
 <!-- keep-sorted start -->
 
@@ -74,6 +74,30 @@
 <!-- keep-sorted start -->
 
 - [Paper CMS](https://github.com/JulianCataldo/paper-cms)
+
+<!-- keep-sorted end -->
+
+</td>
+
+</tr>
+
+<tr>
+
+<th>
+
+#### 🏗️  Web frameworks
+
+</th>
+
+</tr>
+
+<tr>
+
+<td>
+
+<!-- keep-sorted start -->
+
+- [Gracile. A thin, full-stack, **web** framework](https://github.com/gracile-web/gracile)
 
 <!-- keep-sorted end -->
 
