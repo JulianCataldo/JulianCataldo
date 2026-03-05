@@ -68,8 +68,14 @@
 - [JSON Schema Form Element](https://github.com/json-schema-form-element/jsfe) ![GitHub Repo stars](https://img.shields.io/github/stars/json-schema-form-element/jsfe?label)
 - [Web Garden](https://github.com/JulianCataldo/web-garden) ![GitHub Repo stars](https://img.shields.io/github/stars/JulianCataldo/web-garden?label)
 
-- [vite-plugin-standard-css-modules](https://github.com/JulianCataldo/vite-plugin-standard-css-modules) ![GitHub Repo stars](https://img.shields.io/github/stars/JulianCataldo/vite-plugin-standard-css-modules?label)
-- [Open Graph images generator](https://github.com/JulianCataldo/og-images-generator) ![GitHub Repo stars](https://img.shields.io/github/stars/JulianCataldo/og-images-generator?label)
+- [vite-plugin-standard-css-modules](https://github.com/gracile-web/vite-plugin-standard-css-modules) ![GitHub Repo stars](https://img.shields.io/github/stars/gracile-web/vite-plugin-standard-css-modules?label)
+- [Open Graph images generator](https://github.com/gracile-web/og-images-generator) ![GitHub Repo stars](https://img.shields.io/github/stars/gracile-web/og-images-generator?label)
+
+- [babel-plugin-jsx-to-literals](https://github.com/gracile-web/babel-plugin-jsx-to-literals) ![GitHub Repo stars](https://img.shields.io/github/stars/gracile-web/babel-plugin-jsx-to-literals?label)
+- [Gracile / Lit Functional](https://github.com/gracile-web/functional) ![GitHub Repo stars](https://img.shields.io/github/stars/gracile-web/functional?label)
+- [Lit + Monaco Toolkit](https://github.com/gracile-web/monaco-toolkit) ![GitHub Repo stars](https://img.shields.io/github/stars/gracile-web/monaco-toolkit?label)
+- [Node Flow Elements](https://github.com/JulianCataldo/node-flow-elements) ![GitHub Repo stars](https://img.shields.io/github/stars/JulianCataldo/node-flow-elements?label)
+<!-- - [Web Elements Analyzer](https://github.com/gracile-web/web-elements-analyzer) ![GitHub Repo stars](https://img.shields.io/github/stars/gracile-web/web-elements-analyzer?label) -->
 
 
 <!-- keep-sorted end -->
@@ -132,6 +138,8 @@
 
 - [Flowbite Astro Admin Dashboard](https://github.com/themesberg/flowbite-astro-admin-dashboard) (official) ![GitHub Repo stars](https://img.shields.io/github/stars/themesberg/flowbite-astro-admin-dashboard?label)
 
+- [Gracile / Starter Projects](https://github.com/gracile-web/starter-projects) ![GitHub Repo stars](https://img.shields.io/github/stars/gracile-web/starter-projects?label)
+
 <!-- keep-sorted end -->
 
 </td>
@@ -173,6 +181,8 @@
 - [remark-lint-frontmatter-schema](https://github.com/JulianCataldo/remark-lint-frontmatter-schema) ![GitHub Repo stars](https://img.shields.io/github/stars/JulianCataldo/remark-lint-frontmatter-schema?label)
 
 - [retext-case-police](https://github.com/JulianCataldo/retext-case-police) ![GitHub Repo stars](https://img.shields.io/github/stars/JulianCataldo/retext-case-police?label)
+
+- [eslint-plugin-markdown-frontmatter-schema](https://github.com/JulianCataldo/eslint-plugin-markdown-frontmatter-schema) ![GitHub Repo stars](https://img.shields.io/github/stars/JulianCataldo/eslint-plugin-markdown-frontmatter-schema?label)
 
 
 <!-- keep-sorted end -->
